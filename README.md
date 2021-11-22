@@ -1,3 +1,7 @@
+# About this application
+### This is a React application which allows users to create blogs, delete blogs and view existing blogs. Json Server is being used to perform CRUD operations with the local database file.
+
+
 # Video Demonstration
 https://user-images.githubusercontent.com/79359151/142765412-f43c1481-56b4-42bc-8430-603aae4dcded.mp4
 
